@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: eugenec137/debian10-php7.4:latest
+        tags: eugenec137/phpdebian7.2:latest
